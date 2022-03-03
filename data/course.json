@@ -1,0 +1,36 @@
+{
+  "term": "",
+  "year": "",
+  "level": [],
+  "topics": [
+    [
+      "Energy",
+      "Buildings"
+    ],
+    [
+      "Society",
+      "The Developing World"
+    ]
+  ],
+  "instructors": {
+    "content": [],
+    "website": "test-george-pr-795"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test-george-pr-795"
+  },
+  "course_title": "test pr 795",
+  "course_description": "This is testing PR 795",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1.23",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "test-george-pr-795"
+  },
+  "learning_resource_types": [],
+  "site_uid": "24dc3029-c218-4393-a785-505325eb79da"
+}
